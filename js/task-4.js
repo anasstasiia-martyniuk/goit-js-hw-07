@@ -1,5 +1,4 @@
 const form = document.querySelector(".login-form");
-// const intputs = form.querySelectorAll("input");
 form.addEventListener("submit", handleSubmit);
 
 function handleSubmit(event) {
